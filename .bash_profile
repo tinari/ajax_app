@@ -1,0 +1,3 @@
+export BASIC_AUTH_USER="admin"
+export BASIC_AUTH_PASSWORD="2222"
+
